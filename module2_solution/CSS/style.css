@@ -13,15 +13,15 @@ h1 {
 }
 
 section {
-    border: 1px solid black;
+    border: 2px solid black;
     background-color: #b5c4d2;
     margin: 10px;
 }
 
 section>h2 {
     float: right;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
     margin: 0;
     width: 230px;
     text-align: center;
@@ -43,6 +43,11 @@ section.tanmay>h2 {
 section.pranav>h2 {
     color: #e2e2e2;
     background-color: #10328a;
+}
+
+.story{
+    font-size : 90px;
+
 }
 
 section>p {
